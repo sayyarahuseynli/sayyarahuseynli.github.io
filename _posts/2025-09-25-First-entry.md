@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello oh mighty Github pages!
+title: First entry
 ---
 
 This is your first blog post--make it your own!
