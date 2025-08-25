@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First entry
+title: number one
 ---
 
-This is your first blog post--make it your own!
+why are you not working?
